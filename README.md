@@ -2,7 +2,7 @@
 A gnome-settings-daemon alternative for handling multimedia keys events for standalone window managers.
 
 ## Motivation
-This is the solution for multimedia keys in i3wm: https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html. A new process is spawning everytime you press a multimedia keys. This solution aims to have only one daemon process to handle all multimedia keys events.
+This is the solution for multimedia keys in i3wm: https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html. A new process is spawning everytime you press a multimedia key. This solution aims to have only one daemon process to handle all multimedia keys events.
 
 ## Installation
 This script is still a work in progress. This is a quick guide on how to get this script working on your machine. This should work on any Debian based Linux distro.
